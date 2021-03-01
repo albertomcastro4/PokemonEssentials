@@ -1,0 +1,39 @@
+¡Buenas!
+
+Esta base de Pokémon Essentials es, simplemente, una actualización de la versión 16.2 oficial, pero
+con casi todo lo que ofrecen la sexta, séptima y octava generación. Incluye casi todos los sprites 
+de los Pokémon, los objetos, los ataques y las habilidades de estas tres generaciones, además de 
+todo lo de las anteriores que ya incluye la versión oficial. Además, está casi entera en español.
+Si usais esta base, no os olvideis de dar los créditos correspondientes, tanto a mí (Pira), como a
+los scripters y spriters de los que obtuve la mayoría de los recursos. Como novedad, esta nueva
+versión también incluye todos los OWs de los Pokémon de las 8 generaciones, en sus formas normal y 
+shiny. Podéis encontrarlos en la carpeta Overworlds.
+
+Notas importantes:
+- Faltan algunos sprites de Pokémon de la octava generación que aún no han sido diseñados por la comunidad de Smogon,
+los cuales tendrán placeholders en la carpeta Battlers (podéis sustituirlos fácilmente cuando sean diseñados)
+- Incluye todo lo relacionado con la Mega Evolución y la Regresión Primigénea
+- NO incluye los Movimientos Z
+- NO incluye el Dinamax ni el Gigantamax
+- Incluye la Ultraexplosión de Necrozma, siendo el Ultranecrostal Z un objeto como otro cualquiera
+que se le tiene que dar a Necrozma para que pueda cambiar de forma (aunque no podrá usar su Ataque Z)
+- Incluye a Greninja-Ash y la habilidad Fuerte Afecto (aunque Shuriken de Agua no funcionará de forma distinta)
+- Incuye a Zygarde 10% y a Zygarde completo, así como la habilidad Agrupamiento
+- Incluye todas las formas Alola y Galar, las cuales se generarán por defecto en los mapas "Alola" y "Galar" respectivamente (se pueden
+cambiar desde el script Pokemon_MultipleForms, cambiando las IDs de los mapas 22 y 32 por las que queráis usar)
+- Incluye todos los movimientos a excepción de Onda Anómala y Mandato (intentaré que estén en futuras versiones), incluyendo
+los que desaparecieron en la octava generación (como Persecución o Poder Oculto)
+- Incluye la funcionalidad de que algunos Pokémon aprendan un ataque al evolucionar, sin importar el nivel
+- Todos los movimientos tienen su potencia, precisión y funcionalidad adaptadas a la octava generación
+- Las MTs que vienen por defecto son las de la sexta generación, aunque en la sección 'Otros Movimientos' del PBS de tms también
+hay varios movientos de la séptima generación y algunos Discos Técnicos de la octava generación
+- Todas las MTs, MOs y Otros Movimientos del PBS 'tms' están actualizados con Pokémon hasta la octava generación
+- Leafeon y Glaceon evolucionan mediante Piedra Hoja y Piedra Hielo respectivamente, como en la octava generación
+- Sylveon evoluciona con la Piedra Día al no tener el sistema de afecto de XY incorporado
+- Se han corregido varios bugs tanto de la versión anterior de esta base, como de la base original de Essentials
+
+Reportadme cualquier bug que encontréis a:
+@Piratilla_98
+@p0keluck
+
+¡Espero que os sea de utilidad!
